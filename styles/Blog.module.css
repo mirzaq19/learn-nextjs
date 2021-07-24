@@ -1,0 +1,10 @@
+.post {
+  background-color: #fff;
+  padding: 10px;
+  margin: 20px 0;
+  transition: 0.4s;
+  border-left: 8px solid transparent;
+}
+.post:hover {
+  border-left: 8px solid #ff704c;
+}
